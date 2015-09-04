@@ -1,0 +1,4 @@
+p{font-size: 12px;color:#a0a0a0;text-indent: 2em;}
+.nav
+ > li:hover .dropdown-menu {display: block;}
+.beijing{background-color: #f5f5f5;}
